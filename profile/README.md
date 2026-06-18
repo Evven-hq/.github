@@ -16,8 +16,8 @@
 Simplifying personal finance, shared expenses, and group settlements with a modern, scalable experience.
 
 [🌐 Website](https://evven.app)
-[📚 Documentation](https://github.com/Evven-hq/backend)
-[🚀 Get Started](https://evven.app)
+ . [📚 Documentation](https://github.com/Evven-hq/backend)
+ . [🚀 Get Started](https://evven.app)
 
 </div>
 
