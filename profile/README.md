@@ -1,12 +1,20 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Evven-hq/.github/main/profile/banner.png" alt="Evven Banner"/>
+</p>
+
 # Evven
 
 ### Smart Expense Tracking & Group Settlement Platform
 
+#### Track Smarter. Split Better.
+
 Simplifying personal finance, shared expenses, and group settlements with a modern, scalable experience.
 
-[Website](https://evven.xyz/) • [Documentation](https://github.com/Evven-hq/backend) • [Issues](https://github.com/Evven-hq/backend/issues)
+[🌐 Website](https://evven.app)
+[📚 Documentation](https://github.com/Evven-hq/backend)
+[🚀 Get Started](https://evven.app)
 
 </div>
 
