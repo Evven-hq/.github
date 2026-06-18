@@ -1,7 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Evven-hq/.github/main/profile/EvenUp-white.svg" alt="Evven Banner"/>
+  <img src="https://raw.githubusercontent.com/Evven-hq/.github/main/profile/EvenUp-white.svg" 
+    alt="Evven Banner"
+    width="280"
+  />
 </p>
 
 # Evven
