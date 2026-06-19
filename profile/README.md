@@ -74,7 +74,7 @@ Whether you're splitting bills with friends, tracking personal spending, managin
 | Repository | Description |
 |------------|-------------|
 | [Backend](https://github.com/Evven-hq/backend) | FastAPI backend powering Evven |
-| [Frontend](https://github.com/Evven-hq/frontend) | User-facing web application |
+| [Frontend](https://github.com/Evven-hq/web-app) | User-facing web application |
 | [Mobile](https://github.com/Evven-hq/mobile-app) | Mobile experience for Evven |
 
 ---
