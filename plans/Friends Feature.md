@@ -1,8 +1,8 @@
 # Friend Groups — MVP Plan
 
-**Status:** Draft for team review
-**Owner:** Jagdeep
-**Scope:** Permanent 1:1 expense relationships between existing Evven users
+**Status:** Draft for team review \n
+**Owner:** Jagdeep \n
+**Scope:** Permanent 1:1 expense relationships between existing Evven users \n
 
 ---
 
